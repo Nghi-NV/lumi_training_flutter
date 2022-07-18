@@ -1,0 +1,6 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "internetFailure": "Internet connection is not available. Please check your internet connection and try again.",
+  "serverFailure": "Server is not available. Please try again later."
+}

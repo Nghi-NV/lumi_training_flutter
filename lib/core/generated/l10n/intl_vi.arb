@@ -1,0 +1,6 @@
+{
+  "login": "Đăng Nhập",
+  "register": "Đăng Ký",
+  "internetFailure": "Không có kết nối mạng",
+  "serverFailure": "Lỗi server"
+}
